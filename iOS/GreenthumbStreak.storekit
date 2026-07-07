@@ -1,0 +1,42 @@
+{
+  "identifier" : "greenthumbstreak",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : {
+    "_locale" : "en_US"
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "greenthumbstreak_group",
+      "localizations" : [],
+      "name" : "Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "greenthumbstreak_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Multi-plant streak breakdown and streak history calendar",
+              "displayName" : "Greenthumb Streak Pro",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.shimondeitel.greenthumbstreak.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Greenthumb Streak Pro Monthly",
+          "subscriptionGroupID" : "greenthumbstreak_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
